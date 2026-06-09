@@ -5,7 +5,7 @@
   "primary":        "#99004d",
   "hover":          "#E53935",
   "pressed":        "#7a003d",
-  "sidebar_bg":     "#252526",
+  "sidebar_bg":     "#000066",
   "sidebar_border": "#3E3E42",
   "nav_hover":      "#3E3E42",
   "nav_active":     "#99004d",
