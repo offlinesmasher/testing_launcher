@@ -2,10 +2,10 @@
   "active": true,
   "event_name": "Piala Dunia 2026",
 
-  "primary":        "#99004d",
+  "primary":        "#000000",
   "hover":          "#E53935",
   "pressed":        "#7a003d",
-  "sidebar_bg":     "#000066",
+  "sidebar_bg":     "#FFFFFF",
   "sidebar_border": "#3E3E42",
   "nav_hover":      "#3E3E42",
   "nav_active":     "#99004d",
